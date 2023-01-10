@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on my FYP **Uniten Sport Portal - Done**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Javascript & Python**
 
 - 📫 How to reach me **adinzaini36@gmail.com**
 
