@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/thomas10-10/foo-Wallpaper-Feh-Gif/master/desktop-animation4.gif" width="1000" height="400" frameBorder="0" class="giphy-embed" align="right" allowFullScreen>
 
 <h1 align="center">Hi 👋, I'm Aizuddin</h1>
-<h3 align="center">A passionate FullStack Developer from Malaysia</h3>
+<h3 align="center">A passionate Learn New Tech</h3>
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="480" height="360" frameBorder="0" class="giphy-embed" align="right" allowFullScreen>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adinrc&label=Profile%20views&color=0e75b6&style=flat" alt="adinrc" /> </p>
 
-- 🔭 I’m currently working on my FYP **Uniten Sport Portal**
+- 🔭 I’m currently working on my FYP **Uniten Sport Portal - Done**
 
-- 🌱 I’m currently learning **Laravel , Angular and React**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **adinzaini36@gmail.com**
 
