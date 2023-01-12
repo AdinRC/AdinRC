@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/thomas10-10/foo-Wallpaper-Feh-Gif/master/desktop-animation4.gif" width="1000" height="400" frameBorder="0" class="giphy-embed" align="right" allowFullScreen>
+
 
 <h1 align="center">Hi 👋, I'm Aizuddin</h1>
 <h3 align="center">A passionate Learn New Tech</h3>
@@ -43,6 +43,6 @@
   </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adinrc&theme=dark&show_icons=true&locale=en" alt="adinrc" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adinrc&theme=dark" alt="adinrc" /></p>
