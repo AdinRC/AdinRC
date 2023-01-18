@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript, php, Laravel & python (to know about ML and AI)**
 
-- 📫 How to reach me **adinzaini36@gmail.com**
+- 📫 How to reach me **adinzaini36@gmail.com** **adinwork99@gmail.com**
 
 - ⚡ Fun fact **Santai**
 <br><br>
