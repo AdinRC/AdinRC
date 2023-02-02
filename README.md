@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adinrc&label=Profile%20views&color=0e75b6&style=flat" alt="adinrc" /> </p>
 
-- 🌱 I’m currently learning **Python to know about ML and AI**
+- 🌱 I’m currently learning **Matplotlib to know about ML and AI**
 
 - 📫 How to reach me <br> **adinzaini36@gmail.com** <br> **adinwork99@gmail.com**
 
