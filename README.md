@@ -105,12 +105,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"
       alt="Pandas" width="40" height="40"/> 
   </a> 
-  
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg"
-      alt="TensorFlow" width="40" height="40"/> 
-  </a> 
-  
   </p>
 
 
