@@ -10,6 +10,12 @@
 
 - 💻 My Portfolio Website <br> https://adinportfolio.netlify.app/
 
+- 📖 Enrol Coursework 
+<br> Intro to Machine Learning, Coursera, 
+<br> https://www.kaggle.com/learn
+<br> Data Science: Machine Learning, edX, 
+<br> Intro to Machine Learning, Kaggle,
+
 - ⚡ Fun fact **Santai**
 <br><br>
 
