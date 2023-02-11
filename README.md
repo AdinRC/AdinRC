@@ -12,9 +12,11 @@
 
 - 📖 Enrol Coursework 
 <br> Intro to Machine Learning, Coursera, 
-<br> https://www.kaggle.com/learn
+<br> https://online.duke.edu/course/introduction-to-machine-learning/
 <br> Data Science: Machine Learning, edX, 
+<br> https://www.edx.org/course/data-science-machine-learning
 <br> Intro to Machine Learning, Kaggle,
+<br> https://www.kaggle.com/learn/intro-to-machine-learning
 
 - ⚡ Fun fact **Santai**
 <br><br>
