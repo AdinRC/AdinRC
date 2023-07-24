@@ -10,14 +10,6 @@
 
 - 💻 My Portfolio Website <br> https://adinportfolio.netlify.app/
 
-- 📖 Enrol Coursework 
-<br> Intro to Machine Learning, Coursera, Duke University, 
-<br> https://online.duke.edu/course/introduction-to-machine-learning/
-<br> Data Science: Machine Learning, edX, Harvard University, 
-<br> https://www.edx.org/course/data-science-machine-learning
-<br> Intro to Machine Learning, Kaggle,
-<br> https://www.kaggle.com/learn/intro-to-machine-learning
-
 - ⚡ Fun fact **Santai**
 
 <h3 align="left">Connect with me:</h3>
