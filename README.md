@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aizuddin</h1>
 <h3 align="center">A passionate Learn New Technology</h3>
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently need an Internship
 
 - 📫 How to reach me <br> **adinzaini36@gmail.com** <br> **adinwork99@gmail.com**
 
