@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Aizuddin</h1>
 <h3 align="center">A passionate Learn New Technology</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" frameBorder="0" class="giphy-embed" align="right">
+
 - 🌱 I’m currently need an Internship
 
 - 📫 How to reach me <br> **adinzaini36@gmail.com** <br> **adinwork99@gmail.com**
@@ -11,13 +13,11 @@
 
 - ⚡ Fun fact **Santai**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aizuddin-zaini-082837234/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aizuddin zaini" height="30" width="40" /></a>
-</p>
-<p align="right">
-![Cat Work](https://github.com/user-attachments/assets/36158318-aa7a-44d5-aaa1-ed3fef199182)
-
 </p>
 
 <h3 align="left">🚀Languages and Tools:</h3>
