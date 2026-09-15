@@ -85,7 +85,7 @@
 
 </div>
 
-# > ⚙️ Snake animation ni auto-generate guna GitHub Actions ([Platane/snk](https://github.com/Platane/snk)) — workflow dah disediakan kat `.github/workflows/snake.yml`. Lepas push repo ni ke GitHub (nama repo mesti sama dengan username `AdinRC`), pergi ke tab **Actions** dan run workflow `Generate Snake` sekali untuk generate svg dia buat kali pertama.
+// > ⚙️ Snake animation ni auto-generate guna GitHub Actions ([Platane/snk](https://github.com/Platane/snk)) — workflow dah disediakan kat `.github/workflows/snake.yml`. Lepas push repo ni ke GitHub (nama repo mesti sama dengan username `AdinRC`), pergi ke tab **Actions** dan run workflow `Generate Snake` sekali untuk generate svg dia buat kali pertama.
 
 <br/>
 
