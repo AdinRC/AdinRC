@@ -46,14 +46,7 @@
 ## 🚀 Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,php,python&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=androidstudio,xamarin&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=unity,unrealengine&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=figma,linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,php,python,html,css,sass,bootstrap,nodejs,laravel,androidstudio,unity,unrealengine,tensorflow,pytorch,sklearn,mongodb,mysql,postgres,firebase,figma,linux,git,github,vscode&theme=dark&perline=7" />
 </p>
 
 <br/>
