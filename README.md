@@ -51,16 +51,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdinRC&theme=radical&hide_border=true&background=0d1117&ring=1f6feb&fire=39FF14"/>
-
-</div>
-
-<br/>
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -70,6 +60,18 @@
 </div>
 
 <!-- > ⚙️ Snake animation ni auto-generate guna GitHub Actions ([Platane/snk](https://github.com/Platane/snk)) — workflow dah disediakan kat `.github/workflows/snake.yml`. Lepas push repo ni ke GitHub (nama repo mesti sama dengan username `AdinRC`), pergi ke tab **Actions** dan run workflow `Generate Snake` sekali untuk generate svg dia buat kali pertama. -->
+
+<br/>
+
+## 🌆 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AdinRC/AdinRC/main/profile-3d-contrib/profile-night-green.svg" alt="3d contribution graph"/>
+
+</div>
+
+<!-- > ⚙️ 3D graph ni auto-generate guna GitHub Actions ([yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)) — workflow kat `.github/workflows/profile-3d-contrib.yml`. Run workflow `GitHub-Profile-3D-Contrib` sekali kat tab **Actions** untuk generate svg dia buat kali pertama. -->
 
 <br/>
 
