@@ -62,16 +62,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AdinRC&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=1f6feb"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinRC&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=39FF14"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdinRC&theme=radical&hide_border=true&background=0d1117&ring=1f6feb&fire=39FF14"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdinRC&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
